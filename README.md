@@ -1,7 +1,7 @@
 # Angular2-Firebase-Angularfire
 Angular-2 simple setup for login with firebase using angularfire
 
-# Fireabase Angularfire
+# Firebase Angularfire
 The official Angular library for Firebase. https://github.com/angular/angularfire2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
